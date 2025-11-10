@@ -36,3 +36,5 @@ This is a desktop-based **Payroll Management System** developed in **Java** usin
 | iText PDF        | Generate formatted payslips               |
 | JDBC             | DB connectivity                           |
 | Apache Maven     | Project dependency management             |
+
+If you have anything you would like to talk about regarding this project please email me at kunal.jha@uwaterloo.ca
