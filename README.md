@@ -1,4 +1,4 @@
-# Business Management Portal – Payroll Software
+#  Payroll Management Platform
 
 This is a desktop-based **Payroll Management System** developed in **Java** using **Swing** for the UI, **MySQL** for persistent storage, and **iText** for generating professional PDF payslips. It allows accountants or employers to manage employee payments, deductions, and view/export detailed payroll summaries.
 
