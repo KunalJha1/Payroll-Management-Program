@@ -19,8 +19,6 @@ This is a desktop-based **Payroll Management System** developed in **Java** usin
 
 ## 📸 Screenshots
 
-> ![Logo](images/insta_tax_services_logo_website_home_accountant_blue.png)
-
 **Sample Payslip Output:**
 
 ![Sample Payslip](<GIthub_Example_Payslip.png>)
